@@ -1,0 +1,12 @@
+{
+    "domains_list" : ["techjsa.com"],
+
+    "webServerPort" : 80,
+    "smtpServerPort" : 25,
+
+    "deleteLinkAfterRead" : true,
+
+    "deleteEmailNotRead" : true,
+    "deleteEmailNotReadTimeout" : 60000
+
+}

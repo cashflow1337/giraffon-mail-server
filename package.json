@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cli-color": "^2.0.2",
+    "coolors": "^0.0.2",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "gradient-string": "^2.0.0",
+    "hwid": "^0.4.1",
+    "mailparser": "^3.4.0",
+    "node-hwid": "^0.1.0",
+    "node-machine-id": "^1.1.12",
+    "pkg": "^5.6.0",
+    "smtp-server": "^3.10.0"
+  }
+}
